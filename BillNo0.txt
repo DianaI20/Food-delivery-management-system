@@ -1,12 +1,13 @@
 Order id: 1
-Placed at: 2021/05/25 03:59:20
+Placed at: 2021/05/25 03:50:58
 Client details:
-Name:User1
-Address:Address2
-Phone number: 123456785
+Name:FirstUser
+Address:Address
+Phone number: 123456789
 Products ordered:
-"Apple "Pizza" ",  price=21.0
-"Celery Root "Anna" with Bacon and Olives ",  price=63.0
-"Carp Fish Cakes with Citrus "Tartar" Sauce ",  price=26.0
-"Brioche "Bread Pudding" with Caramelized Apples ",  price=84.0
-Total: 194.0
+"Barley "Risotto" Carter ",  price=27.0
+"Barley "Risotto" Carter ",  price=27.0
+"Barley "Risotto" Carter ",  price=27.0
+"Barley "Risotto" Carter ",  price=27.0
+"Barley "Risotto" Carter ",  price=27.0
+Total: 135.0
