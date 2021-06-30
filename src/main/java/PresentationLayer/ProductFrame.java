@@ -138,9 +138,6 @@ public class ProductFrame extends JFrame {
 
     }
 
-    public JTextField getIdField() {
-        return idField;
-    }
 
     public JTextField getTitleField() {
         return titleField;

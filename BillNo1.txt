@@ -1,0 +1,11 @@
+Order id: 2
+Placed at: 2021/05/25 08:31:07
+Client details:
+Name:FirstUser
+Address:Address
+Phone number: 123456789
+Products ordered:
+Anasazi Butternut Squash Soup with Chorizo and Pepitas ,  price=71.0
+Autumn Soup with Crispy Bacon ,  price=30.0
+Asparagus Soup with Basil Cream ,  price=17.0
+Total: 118.0

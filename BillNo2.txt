@@ -1,0 +1,11 @@
+Order id: 3
+Placed at: 2021/05/25 08:31:10
+Client details:
+Name:FirstUser
+Address:Address
+Phone number: 123456789
+Products ordered:
+Albondigas Soup ,  price=34.0
+Beef Barley Soup with Wild Mushrooms and Parsnips ,  price=36.0
+Asparagus Soup with Basil Cream ,  price=17.0
+Total: 87.0

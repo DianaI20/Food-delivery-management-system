@@ -17,7 +17,7 @@ public class ReportFrame extends JFrame {
     private JButton orderRep = new JButton("Time interval.");
     private JButton clientRep = new JButton("Number of orders & value of the order");
     private JButton productsOrdered = new JButton("Number of times they were ordered");
-    private JButton productsDayOrdered = new JButton("Day");
+    private JButton productsDayOrdered = new JButton("Products ordered in a specified day");
     private JComboBox date;
     private JComboBox month;
     private JComboBox year;
@@ -81,9 +81,9 @@ public class ReportFrame extends JFrame {
         dateLabel.setLocation(20, 60);
         mainPanel.add(dateLabel);
 
-        years = new String[100];
+        years = new String[23];
         int j = 0;
-        for (int i = 2000; i < 2020; i++) {
+        for (int i = 2000; i < 2022; i++) {
             years[j] = Integer.toString(i);
             j++;
         }

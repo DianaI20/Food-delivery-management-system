@@ -20,8 +20,8 @@ public interface IDelieryServiceProcessing {
     int deleteProduct(int id);
 
     int createProduct(List<MenuItem> menuItems);
-    List<Order> filterOrdersByTimeInterval(LocalTime[] time);
 
+    List<Order> filterOrdersByTimeInterval(LocalTime[] time);
 
     void createNewOrder(Order order, List<MenuItem> orderedProducts);
 

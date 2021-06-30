@@ -45,7 +45,6 @@ public class MainController {
             } catch (IOException e) {
                 e.printStackTrace();
             } catch (ClassNotFoundException e) {
-                System.out.println("CLASSNOTF");
                 e.printStackTrace();
             }
         }
